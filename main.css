@@ -133,6 +133,35 @@ body {
     width: 75%;
 }
 
+.project {
+    display: flex;
+    align-content: flex-start;
+}
+
+.lazyriver {
+
+}
+
+.lazyriver img {
+
+}
+
+.happyvalley {
+
+}
+
+.happyvalley img {
+
+}
+
+.css-background {
+
+}
+
+.css-background img {
+    
+}
+
 .footer {
     width: 100%;
 }
