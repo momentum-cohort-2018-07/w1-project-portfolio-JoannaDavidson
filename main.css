@@ -123,6 +123,16 @@ body {
     width: 75%;
 }
 
+.page-container__portfolio {
+    padding: 20px;
+    width: 75%;
+}
+
+.page-container__resume {
+    padding: 20px;
+    width: 75%;
+}
+
 .footer {
     width: 100%;
 }
